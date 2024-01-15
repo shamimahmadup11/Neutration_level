@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ padding-left:500px ;
+}
+.container{
+height: 100vh;
+width: 30vw;
+border: 5px solid black ;
+padding: 10px;
+margin-top: 10px;
+}
+.container h1{
+    font-size: 50px;
+    text-align: center;
+}
+.line{
+    height: 1px;
+    width: 28vw;
+    background-color: black;
+}
+.container p{
+    font-size: 30px;
+}
+.servingSize{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.boldline{
+    height: 16px;
+    width: 28vw;
+    background-color: black;
+}
+.calories{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.boldline2{
+    height: 10px;
+    width: 28vw;
+    background-color: black;
+}
+.totalfat{
+    display: flex;
+    justify-content: space-between;
+}
+.seturatedfat{
+    display: flex;
+    justify-content: space-between;
+}
